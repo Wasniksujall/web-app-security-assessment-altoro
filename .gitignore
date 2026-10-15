@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Original .docx source (keep out of repo)
+*.docx
+~$*
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor temp files
+*.tmp
+*.swp
+*.bak
